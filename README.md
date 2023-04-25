@@ -1,2 +1,2 @@
-# repositoriio-free
+# Readme free
 Curso git y gitHub
